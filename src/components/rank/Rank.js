@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Rank = () => {
+const Rank = ({ name, entries }) => {
 	return (
-		<div className="tc">
-			<div className="white f3">{'This is random text'}</div>
-			<div className="white f1">{'#4'}</div>
+		<div className="tc light-gray dim">
+			<div className="white f3">{`${name}, your current count is...`}</div>
+			<div className="white f1 ">{entries}</div>
 		</div>
 	);
 };
