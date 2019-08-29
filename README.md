@@ -1,5 +1,5 @@
 # Face recognition application 
-# FRONTEND
+## FRONTEND
 
 
 ## Description
