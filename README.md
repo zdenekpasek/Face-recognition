@@ -1,11 +1,14 @@
 # Face recognition application 
 ## FRONTEND
 
+App url: https://facerecog-application.herokuapp.com/
+
 
 ## Description
 - web application for recognizing faces from images
 - based on React
 - it is possible to register your own account and count score of your already recognized faces
+- deployed on heroku
 
 ## Used technologies
 - javascript ES6 (React)
