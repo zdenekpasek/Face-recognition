@@ -16,5 +16,5 @@
 - tachyons (Css toolkit)
 - react-particles-js
 
-## BACKEND in another repo
+## BACKEND in another repo (Face-recognition-api)
 
